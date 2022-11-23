@@ -1,8 +1,9 @@
 # ChocoBBCode
-The simple bbcode renderer.
+The simple bbcode renderer.  
+Using TypeScript to develop.
 
 ## Unlimited Front-end Frameworks...
-Native JavaScript, Vue, React, Angular...
+Native JavaScript, Vue, React, Angular...  
 (It will convert to html elements from bbcode.)
 
 ## How to use?
